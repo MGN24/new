@@ -1,0 +1,100 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+  
+/*End Menu */
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    padding-bottom: 5px;
+}
+.select-dropdown {
+    padding-bottom: 5px;
+}
+
+
+.latestnews {
+    display: block;
+    float: left;
+    width: 100%;
+    margin-left: 8px;
+    padding: 0;
+}
+.formblock {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+.formblock input {
+    width: 100%;
+    padding: 15px;
+    background: #f2f2f2;
+    border: 1px solid #e2e2e2;
+}
+.formblock #message {
+    width: 100%;
+    height: auto;
+    background: #f2f2f2;
+    border: 1px solid #e2e2e2;
+}
+
+.form-group input {
+    width: 100%;
+    padding:5px;
+}
+
+.product-select {
+    width: 100%;
+    padding: 5px;
+}
+.btn1 {
+    padding: 5px;
+    background: #fff;
+    width: 100%;
+}
+
+.contact_us {
+    padding-top: 23px;
+}
+.conrigh {
+    padding-top: 15px;
+}
+
+.banner_text h1 {
+    font-size: 37px;
+}
+.section-padding {
+    padding: 20px 0;
+}
+.section_title {
+    margin-bottom: 41px;
+}
+.about_info {
+    text-align: justify;
+}
+.project-titles li {
+    padding-right: 20px;
+    padding: 2px 17px;
+    font-size: 12px;
+}
+.price {
+    margin-bottom: 25px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
